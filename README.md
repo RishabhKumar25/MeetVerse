@@ -1,4 +1,4 @@
-# Virtualu
+# MeetVerse
 <p align="center"> 
   <h3 align="center">Virtualu Meet</h3>
 
