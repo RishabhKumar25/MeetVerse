@@ -10,7 +10,11 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-.hero_section{
+body{
+    overflow-x: hidden;
+}
+
+.hero_section, .about_section{
     width: 100vw;
     height: 100vh;
     /* background-color: rgb(48, 102, 190); */
@@ -74,7 +78,7 @@ i{
     transition: all 0.3s ease-in-out;
 }
 
-.hero_parent{
+.hero_parent, .about_parent{
     width: 100vw;
     height: 90vh;
     display: flex;
